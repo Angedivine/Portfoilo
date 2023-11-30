@@ -1,0 +1,110 @@
+body{
+    background-color: rgb(26, 14, 14);
+} 
+nav{
+    color: white;
+    padding: 20px;
+    margin-bottom:0px;
+}
+ .navbar
+ {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+ }
+ 
+.deep ul li{
+    list-style-type: none;
+ display: inline-block;
+   
+}
+.deep a{
+    color: white;
+    text-decoration: none;
+    padding-right: 100px;
+   
+    text-align: center;
+    
+    }
+ .deep li{
+    float: right;
+    list-style: none;
+ } 
+ .deep a:hover{color: rgb(144, 136, 136);
+ }
+ 
+ .one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.words{
+    color: white;
+    margin-left: 200px;
+    padding-left: 50px;   
+}
+.image{
+margin-bottom: 0px;
+padding-right: 300px;
+}
+.play{
+    color: white;
+    padding: 20px;
+    margin-bottom:0px;
+}
+.navbar2{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+ .play ul li{
+    list-style-type: none;
+    display: inline-block;
+ }
+.play a{
+    color: white;
+    text-decoration: none;
+    padding-right: 100px;
+    text-align: center;
+    padding: 50px;
+}
+.play li{
+    float: right;
+    list-style: none;
+}
+.play a:hover{
+    color:  rgb(144, 136, 136);
+}
+.texts{
+    color: white;
+    font-size:x-large;
+    margin: 100px;
+}
+.container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}  
+.skills{
+    color: white;
+    padding-right: 500px;
+    margin-bottom: 250px;
+    font-size: larger;
+}
+.socials{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.vertical{
+    width: 2px;
+    height: 300px;
+    background-color:  rgb(238, 76, 16) ;
+}
+.socials{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
